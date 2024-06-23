@@ -31,10 +31,10 @@ A full list of all algorithms can be found under [Full list of algorithms](#Full
 ### :eyes: Example visualizations
 
 Selection sort:  
-![Selection sort]()
+![Selection sort](assets/img/sort.gif)
 
-Stack:  
-![Stack]()
+Linked List :  
+![LinkedList](assets/img/ll.gif)
 
 ## :technologist: Technical stuff
 
